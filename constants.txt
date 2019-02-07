@@ -1,0 +1,9 @@
+background color styleSheet:
+	
+
+QWidget#centralwidget{
+	background-color: qlineargradient(spread:pad, x1:0.48295, y1:1, 		x2:0.482851, y2:0, stop:0 rgba(12, 31, 59, 255), stop:0.527363 		rgba(17, 41, 79, 255), stop:0.99005 rgba(12, 29, 56, 255), stop:		0.995025 rgba(255, 255, 255, 255), stop:1 rgba(255, 255, 255, 			255));
+}
+
+
+main color rgb: 17 , 41 , 79
